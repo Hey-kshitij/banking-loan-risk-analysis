@@ -24,14 +24,3 @@ Portfolio project for entry-level Data Analyst roles using MySQL 8+, synthetic c
 5. Run `sql/04_reporting_views.sql`.
 6. Connect Power BI Desktop to MySQL or import the reporting views. Use the DAX measures and dashboard guide.
 
-## Resume entry
-**Banking & Loan Risk Analysis | MySQL, SQL, Power BI**
-- Analyzed synthetic loan application and repayment data to study approval trends and default patterns across loan types and customer segments.
-- Wrote SQL queries using JOINs, CTEs, window functions, conditional aggregation, and NULL handling to calculate portfolio KPIs and identify data-quality issues.
-- Prepared a Power BI dashboard blueprint with measures for approval rate, default rate, approved loan value, and overdue payment performance.
-
-## Interview pitch
-"I created a loan-risk analysis project using synthetic customer, loan, and payment tables. I validated data quality, joined related tables, calculated approval and default rates, segmented results by credit score and income, and ranked loan types with CTEs and window functions. I then prepared Power BI measures and a dashboard plan."
-
-## Important
-The dataset is synthetic and not suitable for lending decisions. Do not describe synthetic findings as real-world results. A native `.pbix` file must be saved from Power BI Desktop; this bundle contains the data, SQL, DAX, and dashboard instructions to build it.
