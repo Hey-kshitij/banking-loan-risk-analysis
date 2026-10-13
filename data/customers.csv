@@ -1,0 +1,351 @@
+customer_id,age,annual_income,employment_type,city,education_level,credit_score
+C0001,25,120000,Contract,Mumbai,Graduate,839
+C0002,55,120000,Salaried,Pune,Graduate,817
+C0003,50,120000,Salaried,Nagpur,Undergraduate,591
+C0004,40,120000,Salaried,Thane,Postgraduate,841
+C0005,40,120000,Salaried,Aurangabad,Graduate,664
+C0006,59,120000,Business,Navi Mumbai,Other,753
+C0007,24,120000,Salaried,Nashik,Undergraduate,772
+C0008,52,120000,Salaried,Nashik,Graduate,679
+C0009,30,120000,Salaried,Nagpur,Postgraduate,671
+C0010,25,120000,Salaried,Mumbai,Postgraduate,671
+C0011,44,120000,Contract,Navi Mumbai,Postgraduate,805
+C0012,64,120000,Salaried,Mumbai,Graduate,647
+C0013,54,120000,Salaried,Nagpur,Graduate,612
+C0014,55,120000,Salaried,Aurangabad,Undergraduate,639
+C0015,53,120000,Self-employed,Pune,Other,584
+C0016,56,120000,Self-employed,Nagpur,Undergraduate,649
+C0017,44,120000,Self-employed,Nagpur,Other,557
+C0018,26,120000,Salaried,Nashik,Undergraduate,549
+C0019,58,123493,Salaried,Mumbai,Undergraduate,759
+C0020,41,120000,Business,Pune,Undergraduate,545
+C0021,43,120000,Self-employed,Pune,Postgraduate,708
+C0022,37,120000,Self-employed,Nagpur,Graduate,778
+C0023,29,120000,Self-employed,Pune,Graduate,759
+C0024,62,120000,Business,Navi Mumbai,Postgraduate,667
+C0025,56,120000,Salaried,Mumbai,Graduate,584
+C0026,49,120000,Salaried,Kolhapur,Graduate,828
+C0027,39,120000,Self-employed,Kolhapur,Postgraduate,796
+C0028,58,120000,Salaried,Nagpur,Graduate,722
+C0029,45,120000,Business,Navi Mumbai,Graduate,548
+C0030,40,120000,Self-employed,Pune,Undergraduate,531
+C0031,41,120000,Business,Mumbai,Undergraduate,624
+C0032,31,120000,Business,Nashik,Graduate,572
+C0033,25,120000,Self-employed,Mumbai,Graduate,804
+C0034,45,120000,Contract,Nashik,Graduate,588
+C0035,60,120000,Self-employed,Nashik,Undergraduate,613
+C0036,23,120000,Business,Thane,Undergraduate,842
+C0037,59,120000,Salaried,Nashik,Graduate,790
+C0038,58,120000,Self-employed,Navi Mumbai,Undergraduate,592
+C0039,33,120000,Self-employed,Thane,Graduate,646
+C0040,49,120000,Salaried,Navi Mumbai,Graduate,690
+C0041,28,120000,Salaried,Pune,Other,739
+C0042,55,120000,Contract,Navi Mumbai,Graduate,829
+C0043,52,120000,Self-employed,Aurangabad,Graduate,808
+C0044,36,120000,Salaried,Navi Mumbai,Graduate,843
+C0045,24,120000,Salaried,Nashik,Postgraduate,533
+C0046,64,120000,Salaried,Navi Mumbai,Other,598
+C0047,41,120000,Salaried,Aurangabad,Other,706
+C0048,61,120000,Contract,Pune,Graduate,536
+C0049,51,120000,Salaried,Nagpur,Graduate,637
+C0050,56,120000,Salaried,Mumbai,Undergraduate,570
+C0051,55,120000,Self-employed,Navi Mumbai,Graduate,828
+C0052,29,120000,Salaried,Nashik,Undergraduate,540
+C0053,37,120000,Salaried,Mumbai,Postgraduate,569
+C0054,42,120000,Business,Aurangabad,Graduate,584
+C0055,43,172360,Self-employed,Nagpur,Undergraduate,569
+C0056,22,131699,Contract,Pune,Graduate,708
+C0057,45,120000,Self-employed,Thane,Graduate,640
+C0058,27,120000,Salaried,Thane,Postgraduate,822
+C0059,54,120000,Business,Kolhapur,Postgraduate,606
+C0060,51,120000,Contract,Aurangabad,Postgraduate,697
+C0061,62,120000,Business,Nagpur,Postgraduate,738
+C0062,54,120000,Contract,Aurangabad,Other,727
+C0063,37,120000,Business,Aurangabad,Other,783
+C0064,64,120000,Business,Mumbai,Postgraduate,586
+C0065,39,120000,Salaried,Pune,Graduate,687
+C0066,35,120000,Business,Nashik,Undergraduate,784
+C0067,61,120000,Salaried,Nagpur,Other,805
+C0068,37,120000,Self-employed,Mumbai,Graduate,724
+C0069,24,120000,Self-employed,Pune,Graduate,735
+C0070,42,120000,Contract,Thane,Graduate,806
+C0071,56,120000,Contract,Nashik,Graduate,726
+C0072,29,120000,Salaried,Aurangabad,Postgraduate,834
+C0073,41,146427,Business,Aurangabad,Graduate,562
+C0074,26,120000,Business,Kolhapur,Undergraduate,635
+C0075,51,120000,Salaried,Kolhapur,Undergraduate,557
+C0076,42,129509,Salaried,Nashik,Undergraduate,549
+C0077,35,202831,Salaried,Thane,Graduate,676
+C0078,31,120000,Business,Nashik,Graduate,594
+C0079,46,120000,Self-employed,Thane,Undergraduate,654
+C0080,51,120000,Contract,Nagpur,Undergraduate,664
+C0081,63,123754,Salaried,Pune,Postgraduate,725
+C0082,40,120000,Contract,Thane,Undergraduate,833
+C0083,28,120000,Salaried,Pune,Graduate,801
+C0084,58,120000,Business,Thane,Undergraduate,645
+C0085,49,120000,Salaried,Pune,Graduate,627
+C0086,52,120000,Self-employed,Mumbai,Graduate,775
+C0087,25,120000,Business,Aurangabad,Postgraduate,560
+C0088,35,120000,Contract,Navi Mumbai,Graduate,698
+C0089,55,120000,Business,Nagpur,Graduate,660
+C0090,58,120000,Salaried,Pune,Graduate,580
+C0091,40,120000,Salaried,Mumbai,Graduate,724
+C0092,57,120000,Salaried,Navi Mumbai,Undergraduate,626
+C0093,58,120000,Salaried,Kolhapur,Graduate,581
+C0094,38,120000,Self-employed,Pune,Postgraduate,736
+C0095,61,120000,Business,Nagpur,Undergraduate,577
+C0096,33,120000,Business,Nashik,Graduate,742
+C0097,31,120000,Business,Mumbai,Graduate,573
+C0098,51,120000,Business,Thane,Undergraduate,663
+C0099,49,120000,Business,Aurangabad,Undergraduate,787
+C0100,27,120000,Salaried,Mumbai,Postgraduate,595
+C0101,58,120000,Salaried,Kolhapur,Undergraduate,774
+C0102,29,144225,Self-employed,Nagpur,Graduate,758
+C0103,57,120000,Business,Pune,Graduate,818
+C0104,21,120000,Salaried,Nagpur,Undergraduate,575
+C0105,56,120000,Self-employed,Mumbai,Graduate,756
+C0106,56,120000,Self-employed,Mumbai,Undergraduate,830
+C0107,56,120000,Salaried,Navi Mumbai,Postgraduate,772
+C0108,50,120000,Salaried,Kolhapur,Undergraduate,582
+C0109,42,120000,Business,Mumbai,Graduate,792
+C0110,52,120000,Self-employed,Thane,Graduate,555
+C0111,33,120000,Salaried,Aurangabad,Graduate,714
+C0112,56,120000,Business,Thane,Graduate,684
+C0113,46,120000,Salaried,Kolhapur,Undergraduate,695
+C0114,41,120000,Business,Nashik,Graduate,691
+C0115,43,120000,Salaried,Aurangabad,Graduate,530
+C0116,46,120000,Self-employed,Aurangabad,Graduate,688
+C0117,22,120000,Salaried,Kolhapur,Graduate,830
+C0118,27,120000,Salaried,Mumbai,Undergraduate,664
+C0119,32,120000,Business,Nashik,Graduate,611
+C0120,26,120000,Salaried,Mumbai,Other,849
+C0121,40,120000,Salaried,Nashik,Graduate,552
+C0122,51,120000,Salaried,Mumbai,Postgraduate,680
+C0123,50,120000,Business,Pune,Graduate,689
+C0124,42,120000,Business,Navi Mumbai,Graduate,678
+C0125,59,120000,Contract,Pune,Undergraduate,825
+C0126,46,120000,Salaried,Navi Mumbai,Other,659
+C0127,24,120000,Salaried,Pune,Undergraduate,842
+C0128,55,120000,Salaried,Thane,Graduate,542
+C0129,46,123684,Self-employed,Nashik,Graduate,762
+C0130,49,120000,Contract,Aurangabad,Postgraduate,716
+C0131,46,120000,Business,Nashik,Graduate,599
+C0132,45,120000,Self-employed,Nagpur,Undergraduate,595
+C0133,25,120000,Salaried,Nagpur,Postgraduate,758
+C0134,46,120000,Contract,Aurangabad,Postgraduate,731
+C0135,56,120000,Self-employed,Nagpur,Undergraduate,722
+C0136,34,120000,Salaried,Aurangabad,Undergraduate,536
+C0137,48,120000,Salaried,Thane,Graduate,717
+C0138,22,123942,Salaried,Nagpur,Graduate,844
+C0139,36,120000,Salaried,Nashik,Postgraduate,525
+C0140,40,120000,Salaried,Mumbai,Postgraduate,675
+C0141,65,124549,Salaried,Nashik,Graduate,683
+C0142,30,120000,Self-employed,Mumbai,Graduate,816
+C0143,33,120000,Salaried,Mumbai,Undergraduate,613
+C0144,39,120000,Salaried,Navi Mumbai,Undergraduate,677
+C0145,65,120000,Contract,Pune,Postgraduate,757
+C0146,59,120000,Business,Nagpur,Graduate,539
+C0147,22,120000,Self-employed,Thane,Graduate,785
+C0148,31,120000,Salaried,Navi Mumbai,Postgraduate,792
+C0149,57,120000,Business,Mumbai,Graduate,758
+C0150,23,120000,Salaried,Mumbai,Postgraduate,734
+C0151,59,120000,Salaried,Nashik,Postgraduate,767
+C0152,33,120000,Contract,Aurangabad,Graduate,778
+C0153,62,128627,Self-employed,Navi Mumbai,Graduate,819
+C0154,34,120000,Business,Mumbai,Graduate,661
+C0155,40,120000,Self-employed,Mumbai,Undergraduate,670
+C0156,50,120000,Self-employed,Nashik,Postgraduate,731
+C0157,26,120000,Salaried,Thane,Graduate,583
+C0158,46,120000,Salaried,Pune,Undergraduate,803
+C0159,43,120000,Salaried,Nagpur,Graduate,775
+C0160,56,120000,Salaried,Pune,Graduate,728
+C0161,65,120000,Business,Mumbai,Other,619
+C0162,50,120000,Salaried,Navi Mumbai,Graduate,635
+C0163,39,120000,Self-employed,Pune,Graduate,663
+C0164,39,120000,Business,Nashik,Postgraduate,739
+C0165,39,120000,Business,Navi Mumbai,Graduate,777
+C0166,57,120000,Salaried,Aurangabad,Postgraduate,742
+C0167,35,120000,Salaried,Pune,Graduate,827
+C0168,28,120000,Contract,Nagpur,Graduate,837
+C0169,36,120000,Self-employed,Navi Mumbai,Graduate,753
+C0170,22,120000,Business,Nagpur,Graduate,642
+C0171,25,120000,Contract,Aurangabad,Graduate,718
+C0172,25,120000,Business,Aurangabad,Graduate,660
+C0173,55,120000,Salaried,Kolhapur,Undergraduate,728
+C0174,53,120000,Self-employed,Mumbai,Graduate,788
+C0175,52,120000,Salaried,Thane,Graduate,642
+C0176,41,120000,Self-employed,Navi Mumbai,Graduate,687
+C0177,53,120000,Contract,Mumbai,Graduate,535
+C0178,28,120000,Self-employed,Thane,Graduate,763
+C0179,61,120000,Salaried,Thane,Postgraduate,682
+C0180,43,120000,Salaried,Kolhapur,Graduate,672
+C0181,63,120000,Contract,Nashik,Undergraduate,696
+C0182,27,120000,Salaried,Nagpur,Other,591
+C0183,43,120000,Salaried,Thane,Graduate,717
+C0184,52,120000,Salaried,Mumbai,Graduate,766
+C0185,43,120000,Salaried,Thane,Graduate,635
+C0186,41,120000,Salaried,Navi Mumbai,Postgraduate,563
+C0187,28,120000,Self-employed,Kolhapur,Graduate,648
+C0188,38,120000,Salaried,Nashik,Undergraduate,585
+C0189,31,120000,Salaried,Aurangabad,Undergraduate,643
+C0190,34,120000,Salaried,Pune,Undergraduate,727
+C0191,51,120000,Salaried,Navi Mumbai,Postgraduate,557
+C0192,49,120000,Salaried,Nashik,Other,767
+C0193,48,120000,Self-employed,Pune,Graduate,594
+C0194,37,120000,Salaried,Thane,Graduate,816
+C0195,64,120000,Salaried,Kolhapur,Graduate,762
+C0196,24,120000,Salaried,Aurangabad,Other,610
+C0197,36,120000,Salaried,Pune,Postgraduate,706
+C0198,26,120000,Salaried,Thane,Undergraduate,556
+C0199,36,120000,Salaried,Kolhapur,Graduate,553
+C0200,64,120000,Business,Thane,Other,836
+C0201,37,120000,Salaried,Thane,Postgraduate,785
+C0202,61,120000,Self-employed,Mumbai,Postgraduate,571
+C0203,43,120000,Self-employed,Mumbai,Other,613
+C0204,52,159152,Salaried,Navi Mumbai,Graduate,585
+C0205,41,120000,Salaried,Aurangabad,Graduate,650
+C0206,32,120000,Business,Nagpur,Postgraduate,616
+C0207,55,120000,Business,Nashik,Graduate,628
+C0208,64,120000,Salaried,Kolhapur,Graduate,695
+C0209,32,120000,Salaried,Thane,Graduate,582
+C0210,56,120000,Salaried,Pune,Graduate,812
+C0211,32,120000,Salaried,Aurangabad,Undergraduate,760
+C0212,53,120000,Self-employed,Navi Mumbai,Postgraduate,771
+C0213,56,120000,Salaried,Nashik,Graduate,576
+C0214,41,120000,Salaried,Nashik,Graduate,754
+C0215,54,120000,Contract,Navi Mumbai,Graduate,796
+C0216,33,120000,Salaried,Pune,Postgraduate,577
+C0217,24,120000,Salaried,Nagpur,Other,768
+C0218,25,120000,Business,Nagpur,Other,638
+C0219,41,120000,Salaried,Thane,Graduate,780
+C0220,61,120000,Salaried,Mumbai,Graduate,678
+C0221,26,120000,Salaried,Nagpur,Graduate,785
+C0222,41,120000,Contract,Mumbai,Postgraduate,568
+C0223,52,120000,Salaried,Thane,Graduate,648
+C0224,30,120000,Salaried,Kolhapur,Postgraduate,610
+C0225,53,120000,Salaried,Nagpur,Postgraduate,602
+C0226,34,120000,Salaried,Nagpur,Graduate,622
+C0227,57,120000,Self-employed,Mumbai,Graduate,646
+C0228,47,120000,Salaried,Navi Mumbai,Graduate,562
+C0229,45,120000,Self-employed,Kolhapur,Graduate,754
+C0230,28,120000,Self-employed,Nashik,Graduate,702
+C0231,41,120000,Business,Nagpur,Undergraduate,794
+C0232,59,120000,Salaried,Kolhapur,Graduate,753
+C0233,21,120000,Business,Kolhapur,Graduate,569
+C0234,55,120000,Self-employed,Nagpur,Postgraduate,543
+C0235,43,120000,Salaried,Nashik,Undergraduate,659
+C0236,53,120000,Business,Kolhapur,Graduate,679
+C0237,50,120000,Business,Kolhapur,Undergraduate,599
+C0238,40,120000,Salaried,Aurangabad,Other,778
+C0239,34,120000,Contract,Pune,Postgraduate,712
+C0240,49,120000,Salaried,Nagpur,Postgraduate,767
+C0241,27,120000,Self-employed,Aurangabad,Graduate,556
+C0242,47,120000,Contract,Navi Mumbai,Other,789
+C0243,25,120000,Salaried,Aurangabad,Graduate,588
+C0244,50,120000,Business,Nashik,Other,668
+C0245,49,120000,Salaried,Aurangabad,Postgraduate,665
+C0246,24,120000,Business,Mumbai,Graduate,791
+C0247,55,120000,Self-employed,Pune,Graduate,611
+C0248,39,120000,Salaried,Kolhapur,Postgraduate,599
+C0249,56,120000,Salaried,Navi Mumbai,Postgraduate,632
+C0250,22,120000,Salaried,Thane,Graduate,639
+C0251,29,120000,Salaried,Aurangabad,Undergraduate,580
+C0252,43,120000,Salaried,Pune,Undergraduate,578
+C0253,29,120000,Salaried,Navi Mumbai,Postgraduate,596
+C0254,35,120000,Salaried,Nagpur,Graduate,674
+C0255,50,120000,Salaried,Nashik,Graduate,633
+C0256,27,123343,Business,Navi Mumbai,Undergraduate,649
+C0257,51,120000,Business,Kolhapur,Graduate,758
+C0258,25,120000,Business,Kolhapur,Undergraduate,599
+C0259,28,120000,Salaried,Nashik,Graduate,821
+C0260,47,120000,Business,Navi Mumbai,Postgraduate,768
+C0261,56,120000,Self-employed,Nagpur,Graduate,577
+C0262,28,120000,Salaried,Aurangabad,Graduate,623
+C0263,34,120000,Salaried,Thane,Undergraduate,580
+C0264,62,120000,Self-employed,Kolhapur,Postgraduate,610
+C0265,65,120000,Salaried,Mumbai,Postgraduate,640
+C0266,47,120000,Self-employed,Nashik,Other,563
+C0267,41,120000,Contract,Nashik,Other,524
+C0268,36,120000,Salaried,Navi Mumbai,Undergraduate,665
+C0269,48,120000,Salaried,Kolhapur,Graduate,752
+C0270,47,120000,Contract,Nashik,Postgraduate,620
+C0271,34,120000,Self-employed,Kolhapur,Undergraduate,804
+C0272,22,120000,Salaried,Kolhapur,Graduate,642
+C0273,27,120000,Business,Nagpur,Graduate,818
+C0274,64,120000,Business,Nagpur,Undergraduate,598
+C0275,39,120000,Self-employed,Navi Mumbai,Postgraduate,698
+C0276,42,120000,Self-employed,Aurangabad,Postgraduate,772
+C0277,42,120000,Salaried,Mumbai,Other,539
+C0278,56,120000,Salaried,Kolhapur,Postgraduate,827
+C0279,23,120000,Self-employed,Aurangabad,Graduate,640
+C0280,24,120000,Salaried,Aurangabad,Graduate,684
+C0281,33,135866,Self-employed,Kolhapur,Graduate,728
+C0282,42,143248,Business,Navi Mumbai,Graduate,732
+C0283,51,120000,Salaried,Nashik,Undergraduate,527
+C0284,43,120000,Self-employed,Nagpur,Undergraduate,807
+C0285,40,120000,Salaried,Mumbai,Graduate,726
+C0286,63,120000,Business,Kolhapur,Graduate,850
+C0287,28,120000,Salaried,Nagpur,Undergraduate,676
+C0288,46,120000,Self-employed,Nashik,Graduate,723
+C0289,45,120000,Self-employed,Kolhapur,Postgraduate,665
+C0290,42,120000,Salaried,Nagpur,Graduate,814
+C0291,57,120000,Self-employed,Nagpur,Postgraduate,795
+C0292,33,120000,Business,Nagpur,Graduate,820
+C0293,63,120000,Self-employed,Nashik,Postgraduate,686
+C0294,35,120000,Business,Mumbai,Graduate,781
+C0295,45,120000,Contract,Thane,Postgraduate,638
+C0296,44,135082,Salaried,Pune,Graduate,672
+C0297,59,120000,Self-employed,Nashik,Graduate,771
+C0298,40,120000,Salaried,Kolhapur,Postgraduate,546
+C0299,33,120000,Business,Mumbai,Graduate,755
+C0300,21,120000,Self-employed,Kolhapur,Graduate,525
+C0301,37,120000,Salaried,Kolhapur,Graduate,712
+C0302,58,120000,Salaried,Kolhapur,Graduate,677
+C0303,21,120000,Business,Nashik,Graduate,675
+C0304,61,120000,Salaried,Pune,Other,683
+C0305,45,120000,Self-employed,Navi Mumbai,Graduate,682
+C0306,27,120000,Salaried,Nashik,Undergraduate,654
+C0307,34,120000,Contract,Thane,Other,669
+C0308,45,178264,Salaried,Mumbai,Graduate,708
+C0309,35,120000,Salaried,Mumbai,Postgraduate,772
+C0310,25,120000,Business,Thane,Undergraduate,702
+C0311,50,120000,Contract,Navi Mumbai,Postgraduate,732
+C0312,51,120000,Salaried,Thane,Graduate,796
+C0313,26,120000,Salaried,Thane,Graduate,847
+C0314,33,120000,Business,Mumbai,Graduate,555
+C0315,31,120000,Business,Navi Mumbai,Postgraduate,755
+C0316,50,120000,Salaried,Kolhapur,Other,594
+C0317,53,120000,Self-employed,Mumbai,Other,585
+C0318,53,120000,Business,Mumbai,Graduate,782
+C0319,63,120000,Business,Thane,Undergraduate,542
+C0320,55,120000,Business,Nashik,Graduate,800
+C0321,35,120000,Self-employed,Thane,Undergraduate,775
+C0322,25,120000,Salaried,Mumbai,Graduate,849
+C0323,48,120000,Contract,Nashik,Other,741
+C0324,62,120000,Business,Nashik,Undergraduate,808
+C0325,64,120000,Business,Nashik,Graduate,559
+C0326,31,120000,Salaried,Kolhapur,Graduate,814
+C0327,31,120000,Salaried,Navi Mumbai,Undergraduate,573
+C0328,22,120000,Business,Navi Mumbai,Graduate,624
+C0329,27,120000,Salaried,Kolhapur,Postgraduate,562
+C0330,45,120000,Contract,Mumbai,Undergraduate,652
+C0331,45,120000,Salaried,Navi Mumbai,Postgraduate,767
+C0332,37,120000,Business,Aurangabad,Graduate,608
+C0333,34,120000,Business,Aurangabad,Graduate,792
+C0334,58,120000,Salaried,Kolhapur,Graduate,720
+C0335,41,165475,Salaried,Thane,Other,728
+C0336,57,120000,Self-employed,Navi Mumbai,Graduate,830
+C0337,64,120000,Self-employed,Aurangabad,Graduate,662
+C0338,35,120000,Salaried,Aurangabad,Graduate,634
+C0339,30,120000,Self-employed,Kolhapur,Other,849
+C0340,63,120000,Contract,Nashik,Graduate,704
+C0341,49,120000,Salaried,Nashik,Undergraduate,723
+C0342,34,120000,Salaried,Kolhapur,Undergraduate,618
+C0343,48,120000,Salaried,Pune,Undergraduate,591
+C0344,44,120000,Salaried,Nashik,Other,576
+C0345,61,120000,Salaried,Kolhapur,Undergraduate,593
+C0346,32,120000,Salaried,Navi Mumbai,Other,584
+C0347,65,120000,Self-employed,Aurangabad,Graduate,767
+C0348,63,120000,Salaried,Nagpur,Undergraduate,539
+C0349,29,120000,Contract,Nagpur,Postgraduate,728
+C0350,28,120000,Salaried,Kolhapur,Postgraduate,834

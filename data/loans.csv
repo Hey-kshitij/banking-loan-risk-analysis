@@ -1,0 +1,601 @@
+loan_id,customer_id,application_date,loan_type,loan_amount,loan_term_months,interest_rate_pct,application_status,repayment_status
+L00001,C0268,2025-11-24,Personal,409811.0,120,17.38,Pending,Not Applicable
+L00002,C0142,2025-10-08,Personal,427902.0,48,14.21,Approved,Defaulted
+L00003,C0021,2025-10-17,Personal,68410.0,48,10.31,Approved,Current
+L00004,C0292,2025-08-25,Auto,1106447.0,60,14.6,Rejected,Not Applicable
+L00005,C0002,2024-12-11,Personal,278060.0,60,20.33,Approved,Late
+L00006,C0239,2024-07-25,Personal,324580.0,60,18.89,Approved,Current
+L00007,C0235,2025-12-21,Personal,429623.0,48,14.48,Pending,Not Applicable
+L00008,C0068,2024-08-27,Auto,732928.0,60,11.33,Approved,Current
+L00009,C0259,2024-12-04,Personal,280970.0,240,9.7,Rejected,Not Applicable
+L00010,C0062,2023-08-20,Business,2070507.0,36,20.18,Rejected,Not Applicable
+L00011,C0079,2025-03-28,Personal,383999.0,12,17.65,Rejected,Not Applicable
+L00012,C0285,2025-06-16,Auto,1421153.0,24,15.58,Rejected,Not Applicable
+L00013,C0343,2025-01-12,Home,2353149.0,60,20.19,Rejected,Not Applicable
+L00014,C0093,2024-06-29,Home,5990257.0,36,8.83,Rejected,Not Applicable
+L00015,C0323,2023-08-05,Personal,34522.0,240,17.24,Approved,Current
+L00016,C0320,2023-02-07,Education,764071.0,60,10.25,Pending,Not Applicable
+L00017,C0270,2024-11-17,Business,1865427.0,60,8.81,Pending,Not Applicable
+L00018,C0050,2025-01-17,Personal,58812.0,120,,Approved,Current
+L00019,C0105,2025-04-26,Personal,242046.0,36,12.81,Pending,Not Applicable
+L00020,C0238,2025-11-06,Business,1827988.0,120,21.12,Pending,Not Applicable
+L00021,C0350,2024-06-28,Auto,1152562.0,12,11.86,Pending,Not Applicable
+L00022,C0286,2025-06-26,Personal,85941.0,60,19.22,Approved,Current
+L00023,C0148,2025-02-23,Personal,160429.0,240,18.23,Approved,Current
+L00024,C0083,2023-10-31,Auto,553862.0,120,17.02,Pending,Not Applicable
+L00025,C0337,2025-07-14,Education,977887.0,180,20.81,Approved,Defaulted
+L00026,C0097,2023-02-28,Auto,692487.0,36,13.12,Approved,Defaulted
+L00027,C0120,2024-10-17,Business,1757212.0,120,12.85,Approved,Closed
+L00028,C0338,2025-10-26,Home,4520665.0,60,9.41,Rejected,Not Applicable
+L00029,C0197,2024-12-22,Personal,404720.0,60,11.14,Pending,Not Applicable
+L00030,C0093,2025-10-23,Home,1510944.0,12,20.2,Rejected,Not Applicable
+L00031,C0002,2023-03-03,Home,5469420.0,36,14.12,Approved,Current
+L00032,C0151,2024-08-05,Personal,107904.0,60,12.12,Approved,Current
+L00033,C0346,2025-05-04,Personal,40282.0,12,10.24,Pending,Not Applicable
+L00034,C0152,2024-12-04,Home,747303.0,60,14.27,Approved,Defaulted
+L00035,C0245,2025-08-22,Auto,481715.0,180,17.75,Rejected,Not Applicable
+L00036,C0089,2024-05-21,Personal,,240,11.3,Pending,Not Applicable
+L00037,C0272,2025-01-17,Home,1643355.0,24,18.37,Pending,Not Applicable
+L00038,C0272,2024-04-04,Auto,1294284.0,240,16.45,Pending,Not Applicable
+L00039,C0213,2025-08-12,Auto,840516.0,12,18.81,Approved,Defaulted
+L00040,C0271,2023-05-11,Education,107922.0,48,10.76,Approved,Current
+L00041,C0203,2023-10-06,Education,694001.0,180,16.47,Rejected,Not Applicable
+L00042,C0133,2023-04-16,Auto,196682.0,12,9.31,Pending,Not Applicable
+L00043,C0259,2025-02-07,Personal,253802.0,12,12.46,Approved,Closed
+L00044,C0293,2023-09-12,Home,3572709.0,12,17.87,Approved,Closed
+L00045,C0295,2023-12-14,Auto,1010251.0,60,16.48,Pending,Not Applicable
+L00046,C0075,2025-07-05,Personal,162791.0,120,9.82,Rejected,Not Applicable
+L00047,C0237,2024-01-30,Personal,390288.0,24,19.88,Rejected,Not Applicable
+L00048,C0002,2023-06-09,Personal,310461.0,24,7.8,Approved,Current
+L00049,C0201,2023-01-23,Home,1901318.0,60,15.93,Pending,Not Applicable
+L00050,C0200,2023-09-06,Home,2890323.0,36,21.76,Approved,Current
+L00051,C0128,2025-09-28,Personal,80997.0,60,14.97,Rejected,Not Applicable
+L00052,C0348,2024-08-23,Education,1388804.0,240,19.01,Rejected,Not Applicable
+L00053,C0310,2025-12-25,Business,2283845.0,120,15.93,Rejected,Not Applicable
+L00054,C0014,2023-08-24,Personal,165270.0,180,18.75,Pending,Not Applicable
+L00055,C0074,2024-01-20,Business,2057263.0,60,16.83,Rejected,Not Applicable
+L00056,C0073,2023-06-28,Personal,349199.0,180,17.37,Approved,Late
+L00057,C0315,2024-03-12,Business,1868062.0,36,10.42,Approved,Current
+L00058,C0182,2024-09-08,Business,256757.0,12,18.13,Rejected,Not Applicable
+L00059,C0256,2025-06-03,Personal,442907.0,60,10.57,Rejected,Not Applicable
+L00060,C0284,2024-02-08,Education,1435998.0,12,21.71,Approved,Current
+L00061,C0269,2025-04-24,Business,2925013.0,180,10.42,Approved,Current
+L00062,C0032,2024-11-16,Business,2944197.0,60,10.55,Rejected,Not Applicable
+L00063,C0050,2023-11-16,Business,2793590.0,240,19.88,Approved,Defaulted
+L00064,C0139,2025-09-25,Auto,1369473.0,36,10.64,Approved,Closed
+L00065,C0119,2024-04-20,Personal,56732.0,48,12.41,Pending,Not Applicable
+L00066,C0262,2023-06-15,Business,1449116.0,60,17.72,Rejected,Not Applicable
+L00067,C0055,2025-11-20,Auto,554494.0,36,9.38,Pending,Not Applicable
+L00068,C0131,2025-09-27,Auto,512989.0,60,9.39,Rejected,Not Applicable
+L00069,C0083,2023-02-24,Home,5068395.0,60,14.3,Approved,Current
+L00070,C0067,2025-09-15,Auto,1490652.0,240,10.66,Rejected,Not Applicable
+L00071,C0061,2025-11-03,Personal,275372.0,60,10.53,Rejected,Not Applicable
+L00072,C0069,2025-06-26,Education,1117714.0,24,7.14,Pending,Not Applicable
+L00073,C0198,2023-10-07,Personal,90802.0,48,12.56,Approved,Closed
+L00074,C0144,2024-11-22,Education,371833.0,60,11.77,Approved,Defaulted
+L00075,C0153,2024-08-12,Business,2595382.0,24,7.47,Approved,Current
+L00076,C0168,2024-11-10,Home,2981684.0,48,16.32,Rejected,Not Applicable
+L00077,C0260,2024-11-06,Home,3506463.0,36,16.4,Pending,Not Applicable
+L00078,C0302,2024-11-30,Personal,247515.0,24,8.06,Pending,Not Applicable
+L00079,C0185,2024-07-16,Business,686262.0,60,11.76,Rejected,Not Applicable
+L00080,C0225,2025-01-26,Education,1248296.0,24,20.09,Pending,Not Applicable
+L00081,C0259,2024-07-30,Home,4670664.0,60,15.73,Pending,Not Applicable
+L00082,C0242,2023-01-19,Personal,351407.0,24,13.18,Approved,Defaulted
+L00083,C0047,2023-02-08,Personal,196001.0,60,13.98,Rejected,Not Applicable
+L00084,C0345,2025-11-15,Home,4037422.0,36,10.12,Rejected,Not Applicable
+L00085,C0058,2025-09-22,Business,2864436.0,180,19.18,Approved,Current
+L00086,C0145,2024-10-03,Education,992250.0,12,20.71,Pending,Not Applicable
+L00087,C0229,2023-07-11,Personal,262307.0,60,20.66,Rejected,Not Applicable
+L00088,C0142,2025-05-05,Business,884363.0,36,10.36,Approved,Current
+L00089,C0086,2023-06-06,Home,3375440.0,36,,Pending,Not Applicable
+L00090,C0324,2024-02-18,Business,1177963.0,48,9.41,Approved,Late
+L00091,C0026,2023-12-28,Personal,317297.0,180,11.61,Approved,Defaulted
+L00092,C0087,2023-01-14,Auto,225342.0,240,11.99,Approved,Current
+L00093,C0348,2025-06-02,Business,651482.0,36,16.5,Pending,Not Applicable
+L00094,C0256,2024-07-12,Personal,399863.0,24,9.84,Rejected,Not Applicable
+L00095,C0031,2023-12-13,Auto,778191.0,60,20.79,Approved,Defaulted
+L00096,C0265,2024-07-09,Business,1355695.0,60,8.55,Approved,Closed
+L00097,C0340,2023-01-01,Personal,285632.0,36,7.1,Approved,Current
+L00098,C0035,2024-04-23,Personal,235972.0,120,19.82,Approved,Defaulted
+L00099,C0145,2024-07-22,Auto,1401754.0,60,17.56,Rejected,Not Applicable
+L00100,C0164,2024-01-07,Personal,145317.0,60,12.33,Approved,Defaulted
+L00101,C0046,2025-06-28,Personal,386464.0,36,15.93,Rejected,Not Applicable
+L00102,C0071,2023-10-01,Home,1651850.0,48,10.35,Rejected,Not Applicable
+L00103,C0061,2023-05-31,Education,587364.0,36,9.53,Rejected,Not Applicable
+L00104,C0065,2024-07-31,Personal,306276.0,120,14.07,Approved,Current
+L00105,C0142,2025-08-29,Personal,446410.0,24,12.3,Approved,Defaulted
+L00106,C0163,2024-02-15,Business,774403.0,120,16.23,Rejected,Not Applicable
+L00107,C0084,2023-02-21,Home,3730634.0,120,10.27,Rejected,Not Applicable
+L00108,C0102,2025-11-28,Business,286205.0,60,16.94,Rejected,Not Applicable
+L00109,C0068,2024-05-01,Home,914845.0,12,18.5,Rejected,Not Applicable
+L00110,C0279,2023-07-09,Business,2325772.0,36,9.5,Rejected,Not Applicable
+L00111,C0075,2024-11-05,Auto,1336283.0,48,7.66,Rejected,Not Applicable
+L00112,C0318,2025-10-23,Personal,206941.0,60,13.59,Approved,Current
+L00113,C0189,2023-11-18,Business,1906634.0,240,18.61,Approved,Current
+L00114,C0281,2024-08-25,Home,2591296.0,36,16.76,Approved,Late
+L00115,C0223,2024-08-17,Personal,160305.0,180,17.53,Approved,Closed
+L00116,C0094,2023-09-23,Personal,232720.0,24,13.04,Approved,Defaulted
+L00117,C0211,2024-06-30,Auto,664566.0,36,10.52,Rejected,Not Applicable
+L00118,C0096,2023-04-30,Personal,413071.0,12,14.98,Rejected,Not Applicable
+L00119,C0042,2024-12-05,Personal,223485.0,60,10.07,Approved,Closed
+L00120,C0090,2025-04-10,Personal,180793.0,24,17.89,Rejected,Not Applicable
+L00121,C0097,2025-11-06,Home,3448843.0,36,9.95,Approved,Closed
+L00122,C0048,2023-12-23,Home,4669199.0,120,11.37,Rejected,Not Applicable
+L00123,C0009,2023-11-09,Home,2005161.0,60,14.6,Rejected,Not Applicable
+L00124,C0331,2024-08-23,Personal,471587.0,12,14.3,Approved,Current
+L00125,C0180,2025-01-28,Personal,247861.0,12,16.01,Approved,Late
+L00126,C0141,2025-12-22,Auto,1240433.0,60,13.56,Pending,Not Applicable
+L00127,C0326,2023-01-28,Home,5764833.0,36,20.79,Approved,Defaulted
+L00128,C0079,2023-09-18,Auto,862274.0,36,19.6,Rejected,Not Applicable
+L00129,C0142,2023-10-15,Personal,123915.0,60,20.19,Approved,Closed
+L00130,C0297,2023-10-07,Personal,381461.0,36,16.44,Rejected,Not Applicable
+L00131,C0222,2024-05-22,Personal,33111.0,60,16.53,Approved,Closed
+L00132,C0140,2025-08-13,Home,3018435.0,36,16.14,Rejected,Not Applicable
+L00133,C0090,2023-02-03,Home,5889950.0,36,13.52,Rejected,Not Applicable
+L00134,C0013,2025-06-12,Education,650919.0,24,11.83,Approved,Current
+L00135,C0030,2024-11-07,Home,4262513.0,36,15.88,Pending,Not Applicable
+L00136,C0057,2024-11-04,Home,3389057.0,12,7.38,Rejected,Not Applicable
+L00137,C0276,2025-01-12,Auto,504220.0,36,7.11,Rejected,Not Applicable
+L00138,C0224,2023-05-07,Personal,179329.0,180,19.77,Approved,Current
+L00139,C0152,2025-03-28,Home,3379427.0,180,7.7,Rejected,Not Applicable
+L00140,C0275,2023-09-29,Home,1073376.0,36,14.87,Approved,Closed
+L00141,C0057,2024-07-19,Home,2781901.0,60,16.22,Approved,Current
+L00142,C0074,2025-01-11,Personal,224980.0,60,9.97,Approved,Defaulted
+L00143,C0138,2024-10-23,Education,1260622.0,120,20.44,Rejected,Not Applicable
+L00144,C0322,2023-12-20,Business,459185.0,36,9.85,Approved,Defaulted
+L00145,C0215,2024-03-09,Personal,426066.0,36,20.27,Approved,Current
+L00146,C0298,2024-06-05,Auto,827228.0,36,18.44,Rejected,Not Applicable
+L00147,C0087,2023-02-15,Education,994459.0,12,10.61,Rejected,Not Applicable
+L00148,C0297,2025-03-06,Personal,291759.0,36,9.26,Approved,Current
+L00149,C0026,2023-04-20,Education,484685.0,180,11.74,Rejected,Not Applicable
+L00150,C0080,2024-05-17,Auto,1685674.0,240,12.97,Approved,Defaulted
+L00151,C0184,2024-12-18,Business,750947.0,24,10.69,Approved,Current
+L00152,C0018,2023-03-30,Business,205044.0,48,21.98,Rejected,Not Applicable
+L00153,C0301,2025-12-26,Personal,382559.0,36,10.44,Pending,Not Applicable
+L00154,C0304,2024-02-18,Home,3918021.0,48,19.46,Rejected,Not Applicable
+L00155,C0190,2023-01-18,Auto,1619388.0,60,9.39,Rejected,Not Applicable
+L00156,C0108,2024-12-22,Personal,245135.0,12,21.7,Rejected,Not Applicable
+L00157,C0035,2024-09-02,Personal,37915.0,180,10.38,Rejected,Not Applicable
+L00158,C0217,2024-12-02,Business,158757.0,240,13.33,Approved,Late
+L00159,C0189,2025-04-02,Personal,233631.0,60,15.38,Approved,Closed
+L00160,C0266,2024-06-04,Home,1872515.0,60,8.8,Rejected,Not Applicable
+L00161,C0211,2025-06-24,Business,2774323.0,60,19.25,Approved,Current
+L00162,C0045,2024-02-10,Personal,85688.0,36,11.12,Rejected,Not Applicable
+L00163,C0043,2024-08-19,Home,5344474.0,24,15.24,Approved,Current
+L00164,C0274,2023-06-23,Business,728703.0,60,15.24,Rejected,Not Applicable
+L00165,C0056,2024-11-09,Home,1156710.0,12,16.04,Rejected,Not Applicable
+L00166,C0329,2023-10-14,Personal,159048.0,120,7.83,Approved,Defaulted
+L00167,C0038,2025-02-01,Personal,97746.0,48,9.53,Approved,Current
+L00168,C0255,2025-05-27,Business,1263788.0,48,9.42,Rejected,Not Applicable
+L00169,C0342,2025-07-29,Personal,185316.0,36,11.53,Approved,Defaulted
+L00170,C0155,2025-10-14,Home,3409717.0,240,9.17,Rejected,Not Applicable
+L00171,C0020,2023-05-14,Personal,282422.0,24,20.83,Pending,Not Applicable
+L00172,C0307,2023-06-01,Home,505444.0,24,14.69,Approved,Current
+L00173,C0066,2025-10-11,Business,462129.0,24,16.35,Approved,Current
+L00174,C0185,2024-02-22,Home,1390281.0,60,12.36,Rejected,Not Applicable
+L00175,C0345,2023-01-29,Business,664700.0,240,11.14,Rejected,Not Applicable
+L00176,C0261,2023-11-11,Personal,73976.0,36,14.55,Approved,Defaulted
+L00177,C0017,2025-07-04,Home,2230492.0,180,11.41,Rejected,Not Applicable
+L00178,C0288,2024-01-24,Business,1694053.0,36,12.15,Rejected,Not Applicable
+L00179,C0057,2023-03-26,Home,2198907.0,60,13.79,Rejected,Not Applicable
+L00180,C0263,2025-03-01,Personal,184665.0,12,14.59,Rejected,Not Applicable
+L00181,C0218,2023-08-02,Business,1461710.0,48,21.76,Pending,Not Applicable
+L00182,C0101,2024-01-22,Home,3516188.0,60,10.35,Rejected,Not Applicable
+L00183,C0149,2023-01-05,Home,2320319.0,60,14.32,Rejected,Not Applicable
+L00184,C0042,2024-10-21,Business,743287.0,36,9.24,Pending,Not Applicable
+L00185,C0346,2024-05-02,Personal,222409.0,120,12.25,Rejected,Not Applicable
+L00186,C0084,2025-08-07,Personal,41387.0,240,17.76,Approved,Current
+L00187,C0109,2024-01-02,Personal,261508.0,48,9.62,Approved,Current
+L00188,C0177,2023-08-13,Home,5677518.0,60,15.72,Approved,Closed
+L00189,C0236,2023-07-01,Personal,217029.0,120,13.25,Approved,Defaulted
+L00190,C0177,2023-08-08,Auto,328708.0,36,7.77,Approved,Current
+L00191,C0177,2024-05-08,Personal,362328.0,180,21.0,Approved,Current
+L00192,C0204,2023-04-06,Auto,359317.0,36,13.2,Rejected,Not Applicable
+L00193,C0301,2024-03-16,Personal,121010.0,120,18.76,Approved,Late
+L00194,C0139,2025-07-24,Home,1306007.0,24,13.24,Pending,Not Applicable
+L00195,C0292,2025-04-20,Home,5360162.0,36,21.06,Approved,Defaulted
+L00196,C0276,2024-11-28,Auto,1769107.0,60,11.36,Rejected,Not Applicable
+L00197,C0337,2025-09-04,Home,3633014.0,60,13.18,Rejected,Not Applicable
+L00198,C0320,2025-05-04,Home,3897131.0,180,18.38,Rejected,Not Applicable
+L00199,C0280,2024-12-15,Business,1971828.0,240,12.16,Rejected,Not Applicable
+L00200,C0087,2025-08-03,Auto,1156979.0,24,12.47,Rejected,Not Applicable
+L00201,C0272,2023-05-17,Personal,285728.0,36,21.92,Pending,Not Applicable
+L00202,C0258,2025-06-14,Business,2961425.0,36,15.33,Rejected,Not Applicable
+L00203,C0102,2023-11-20,Home,4532227.0,48,17.34,Rejected,Not Applicable
+L00204,C0238,2025-03-13,Personal,71566.0,48,16.65,Approved,Defaulted
+L00205,C0089,2025-09-27,Home,2655681.0,180,19.42,Rejected,Not Applicable
+L00206,C0184,2024-06-27,Personal,488016.0,120,19.93,Approved,Defaulted
+L00207,C0279,2023-04-08,Personal,219720.0,12,15.45,Rejected,Not Applicable
+L00208,C0066,2024-02-10,Education,345819.0,48,11.42,Approved,Defaulted
+L00209,C0118,2024-03-21,Personal,438191.0,60,7.34,Approved,Closed
+L00210,C0279,2025-10-22,Education,953454.0,48,16.22,Rejected,Not Applicable
+L00211,C0159,2025-10-29,Business,1731455.0,24,19.38,Rejected,Not Applicable
+L00212,C0337,2024-09-14,Auto,843138.0,36,,Approved,Current
+L00213,C0003,2025-11-06,Auto,355214.0,48,9.47,Approved,Defaulted
+L00214,C0253,2024-04-22,Auto,783520.0,36,11.32,Approved,Defaulted
+L00215,C0285,2024-03-26,Business,1368684.0,120,14.65,Rejected,Not Applicable
+L00216,C0322,2025-07-04,Home,5621839.0,36,19.55,Approved,Defaulted
+L00217,C0055,2024-12-31,Personal,174417.0,60,9.58,Rejected,Not Applicable
+L00218,C0345,2024-07-26,Home,1320752.0,60,16.18,Rejected,Not Applicable
+L00219,C0138,2024-05-15,Home,2851404.0,180,18.3,Pending,Not Applicable
+L00220,C0124,2025-02-11,Personal,498623.0,24,21.04,Rejected,Not Applicable
+L00221,C0125,2025-04-05,Auto,945635.0,24,8.75,Approved,Defaulted
+L00222,C0224,2024-06-21,Personal,208189.0,36,20.9,Approved,Current
+L00223,C0231,2023-02-04,Business,2033965.0,48,16.02,Rejected,Not Applicable
+L00224,C0166,2023-04-22,Personal,334924.0,36,18.5,Approved,Closed
+L00225,C0025,2023-06-07,Personal,170664.0,120,7.81,Approved,Defaulted
+L00226,C0346,2024-05-20,Personal,484917.0,36,14.59,Rejected,Not Applicable
+L00227,C0078,2024-11-03,Personal,308684.0,24,16.34,Approved,Closed
+L00228,C0033,2025-05-30,Personal,57072.0,48,11.6,Approved,Defaulted
+L00229,C0210,2023-09-12,Personal,221557.0,120,13.47,Approved,Closed
+L00230,C0145,2025-05-11,Personal,463747.0,180,15.31,Pending,Not Applicable
+L00231,C0216,2024-12-30,Personal,214878.0,60,15.29,Rejected,Not Applicable
+L00232,C0307,2023-02-26,Home,3622963.0,60,7.63,Rejected,Not Applicable
+L00233,C0035,2024-01-20,Home,3869454.0,60,13.59,Rejected,Not Applicable
+L00234,C0100,2023-11-28,Personal,361067.0,60,10.21,Pending,Not Applicable
+L00235,C0181,2025-08-28,Personal,439989.0,36,20.75,Rejected,Not Applicable
+L00236,C0276,2025-10-05,Personal,100116.0,60,21.65,Approved,Current
+L00237,C0211,2025-06-16,Personal,272871.0,120,11.49,Rejected,Not Applicable
+L00238,C0134,2024-08-01,Personal,280692.0,36,9.63,Approved,Defaulted
+L00239,C0214,2024-06-23,Education,270973.0,60,10.29,Approved,Defaulted
+L00240,C0343,2023-12-08,Business,2053190.0,48,14.17,Approved,Defaulted
+L00241,C0169,2025-04-26,Business,442643.0,60,20.12,Rejected,Not Applicable
+L00242,C0310,2023-04-05,Home,3009360.0,24,14.5,Rejected,Not Applicable
+L00243,C0273,2023-10-24,Home,2316369.0,60,7.83,Rejected,Not Applicable
+L00244,C0106,2023-05-29,Personal,102843.0,180,7.6,Approved,Current
+L00245,C0088,2024-06-25,Education,1242364.0,24,10.41,Approved,Defaulted
+L00246,C0270,2023-11-25,Education,403972.0,36,19.64,Rejected,Not Applicable
+L00247,C0073,2023-08-05,Business,840195.0,12,16.32,Rejected,Not Applicable
+L00248,C0118,2024-02-17,Business,2577739.0,12,15.44,Rejected,Not Applicable
+L00249,C0083,2025-07-31,Home,5325518.0,240,11.78,Approved,Closed
+L00250,C0213,2024-09-03,Education,99982.0,48,20.94,Approved,Closed
+L00251,C0103,2025-06-20,Education,452920.0,36,11.97,Approved,Current
+L00252,C0231,2025-09-27,Personal,363165.0,36,19.52,Approved,Defaulted
+L00253,C0328,2025-09-14,Business,2356603.0,240,20.44,Rejected,Not Applicable
+L00254,C0291,2024-01-20,Personal,499714.0,36,14.25,Rejected,Not Applicable
+L00255,C0332,2025-08-18,Business,1708509.0,60,20.41,Pending,Not Applicable
+L00256,C0009,2025-09-22,Education,60850.0,36,11.15,Approved,Late
+L00257,C0160,2025-11-16,Personal,440607.0,12,16.88,Approved,Closed
+L00258,C0078,2024-01-20,Auto,415725.0,60,8.32,Approved,Closed
+L00259,C0322,2023-09-08,Personal,86774.0,12,14.11,Approved,Current
+L00260,C0250,2024-10-01,Education,1027509.0,60,10.26,Rejected,Not Applicable
+L00261,C0113,2025-10-17,Education,925534.0,36,7.94,Rejected,Not Applicable
+L00262,C0198,2025-09-13,Auto,248984.0,60,7.06,Rejected,Not Applicable
+L00263,C0212,2024-09-17,Business,590919.0,120,11.87,Pending,Not Applicable
+L00264,C0174,2023-06-13,Personal,307201.0,60,15.84,Approved,Defaulted
+L00265,C0167,2024-04-07,Personal,150014.0,12,13.83,Approved,Current
+L00266,C0020,2025-02-20,Home,4262001.0,60,11.53,Rejected,Not Applicable
+L00267,C0159,2024-09-05,Personal,223529.0,240,21.87,Approved,Defaulted
+L00268,C0122,2024-01-14,Home,3734805.0,36,21.09,Rejected,Not Applicable
+L00269,C0287,2024-01-11,Personal,253230.0,36,8.88,Rejected,Not Applicable
+L00270,C0303,2023-03-07,Home,2508516.0,120,13.23,Rejected,Not Applicable
+L00271,C0263,2023-11-12,Home,2383236.0,24,16.73,Rejected,Not Applicable
+L00272,C0011,2025-01-02,Business,2122119.0,60,18.0,Rejected,Not Applicable
+L00273,C0295,2023-09-22,Personal,271761.0,120,12.5,Rejected,Not Applicable
+L00274,C0139,2025-12-23,Business,1823454.0,12,18.19,Rejected,Not Applicable
+L00275,C0146,2023-04-01,Home,3675200.0,60,8.86,Approved,Current
+L00276,C0331,2024-10-06,Personal,127589.0,60,11.98,Approved,Defaulted
+L00277,C0304,2024-06-27,Home,5522762.0,36,17.75,Pending,Not Applicable
+L00278,C0018,2025-07-01,Home,3597246.0,180,16.39,Approved,Current
+L00279,C0126,2025-08-30,Personal,367491.0,24,19.56,Rejected,Not Applicable
+L00280,C0263,2024-08-18,Home,5350490.0,36,7.7,Approved,Defaulted
+L00281,C0189,2024-11-21,Personal,464613.0,180,9.62,Rejected,Not Applicable
+L00282,C0091,2025-02-04,Home,4167583.0,36,7.73,Rejected,Not Applicable
+L00283,C0184,2024-07-24,Auto,1448741.0,120,9.88,Approved,Defaulted
+L00284,C0304,2023-07-22,Home,3094853.0,12,7.06,Rejected,Not Applicable
+L00285,C0079,2024-04-14,Education,1119800.0,48,14.56,Rejected,Not Applicable
+L00286,C0262,2023-09-22,Personal,181144.0,12,14.92,Rejected,Not Applicable
+L00287,C0258,2024-05-23,Business,2164168.0,60,16.87,Approved,Current
+L00288,C0310,2024-11-04,Education,174535.0,120,12.77,Rejected,Not Applicable
+L00289,C0105,2023-08-18,Business,2751408.0,180,7.05,Rejected,Not Applicable
+L00290,C0076,2023-10-01,Education,404709.0,240,17.11,Rejected,Not Applicable
+L00291,C0192,2025-06-20,Personal,338585.0,60,7.81,Approved,Closed
+L00292,C0186,2024-02-18,Home,561527.0,120,19.99,Rejected,Not Applicable
+L00293,C0144,2023-08-06,Personal,103186.0,60,7.34,Rejected,Not Applicable
+L00294,C0273,2025-02-19,Education,1480608.0,240,14.96,Rejected,Not Applicable
+L00295,C0280,2025-02-23,Auto,1525052.0,60,20.42,Pending,Not Applicable
+L00296,C0086,2025-06-23,Personal,134566.0,180,15.59,Approved,Defaulted
+L00297,C0279,2025-04-12,Business,479454.0,36,16.13,Approved,Defaulted
+L00298,C0081,2025-12-22,Personal,412992.0,48,17.22,Rejected,Not Applicable
+L00299,C0143,2024-09-21,Auto,1783779.0,60,8.84,Rejected,Not Applicable
+L00300,C0010,2023-11-11,Education,294535.0,36,17.12,Approved,Current
+L00301,C0120,2025-08-02,Personal,342054.0,36,20.21,Approved,Closed
+L00302,C0336,2023-10-17,Auto,617942.0,240,21.61,Rejected,Not Applicable
+L00303,C0155,2023-11-15,Education,1129362.0,48,13.65,Approved,Current
+L00304,C0249,2025-06-26,Personal,226590.0,36,12.17,Approved,Defaulted
+L00305,C0038,2025-08-23,Home,1189446.0,36,18.3,Rejected,Not Applicable
+L00306,C0223,2024-01-07,Personal,182470.0,36,15.14,Rejected,Not Applicable
+L00307,C0131,2025-03-09,Auto,1038728.0,60,10.86,Approved,Defaulted
+L00308,C0261,2025-10-07,Personal,405225.0,240,9.58,Rejected,Not Applicable
+L00309,C0325,2025-05-24,Business,160978.0,240,9.55,Pending,Not Applicable
+L00310,C0187,2023-01-06,Business,2877311.0,60,13.89,Rejected,Not Applicable
+L00311,C0036,2024-12-28,Personal,335313.0,60,9.55,Approved,Current
+L00312,C0167,2023-07-06,Personal,441389.0,36,7.3,Rejected,Not Applicable
+L00313,C0044,2025-07-15,Auto,1684589.0,180,7.78,Rejected,Not Applicable
+L00314,C0158,2023-03-15,Auto,403403.0,36,20.95,Approved,Defaulted
+L00315,C0022,2025-12-23,Home,1015518.0,24,8.09,Rejected,Not Applicable
+L00316,C0225,2023-07-14,Personal,395044.0,240,8.1,Approved,Defaulted
+L00317,C0109,2024-04-05,Personal,118305.0,180,13.77,Approved,Defaulted
+L00318,C0071,2023-09-14,Business,529046.0,36,10.68,Approved,Current
+L00319,C0007,2025-06-10,Home,3076842.0,60,21.44,Pending,Not Applicable
+L00320,C0311,2024-03-06,Business,2748806.0,48,20.66,Approved,Current
+L00321,C0294,2025-03-26,Home,4875833.0,36,13.07,Approved,Closed
+L00322,C0285,2023-03-15,Business,1601848.0,36,13.73,Approved,Current
+L00323,C0021,2024-05-10,Personal,122332.0,24,12.63,Approved,Current
+L00324,C0123,2025-09-24,Personal,188099.0,60,7.57,Rejected,Not Applicable
+L00325,C0340,2025-10-12,Business,2096632.0,48,11.39,Approved,Current
+L00326,C0203,2023-08-17,Business,555374.0,60,8.84,Pending,Not Applicable
+L00327,C0045,2024-03-07,Personal,276470.0,36,8.54,Rejected,Not Applicable
+L00328,C0050,2024-03-23,Home,564949.0,240,15.41,Rejected,Not Applicable
+L00329,C0093,2024-09-11,Home,2287967.0,60,8.48,Rejected,Not Applicable
+L00330,C0341,2024-08-11,Home,1863708.0,180,8.54,Pending,Not Applicable
+L00331,C0060,2023-04-27,Personal,350110.0,24,14.21,Approved,Current
+L00332,C0317,2025-04-15,Business,2750659.0,60,13.63,Pending,Not Applicable
+L00333,C0238,2023-09-05,Personal,98846.0,180,9.06,Approved,Closed
+L00334,C0323,2023-12-11,Auto,1465483.0,36,7.07,Rejected,Not Applicable
+L00335,C0290,2025-07-09,Personal,338284.0,36,9.89,Rejected,Not Applicable
+L00336,C0117,2025-01-25,Personal,485804.0,36,10.54,Pending,Not Applicable
+L00337,C0290,2024-03-10,Auto,1653993.0,36,19.0,Rejected,Not Applicable
+L00338,C0060,2025-09-26,Personal,77358.0,48,20.73,Approved,Current
+L00339,C0102,2024-03-07,Auto,1376318.0,36,13.09,Rejected,Not Applicable
+L00340,C0075,2024-09-11,Personal,308324.0,36,13.08,Approved,Defaulted
+L00341,C0047,2023-09-27,Business,427941.0,60,17.69,Approved,Current
+L00342,C0032,2023-07-20,Education,422868.0,12,16.4,Rejected,Not Applicable
+L00343,C0066,2024-06-22,Business,2788139.0,36,9.76,Rejected,Not Applicable
+L00344,C0043,2024-09-08,Personal,285183.0,60,8.62,Approved,Closed
+L00345,C0134,2025-06-01,Personal,189077.0,24,13.56,Approved,Current
+L00346,C0025,2024-03-04,Home,2262502.0,36,15.47,Pending,Not Applicable
+L00347,C0022,2025-09-07,Home,5108262.0,36,9.08,Approved,Defaulted
+L00348,C0347,2024-10-27,Personal,163229.0,12,11.4,Approved,Defaulted
+L00349,C0031,2023-03-18,Personal,104677.0,48,11.59,Approved,Current
+L00350,C0026,2025-03-20,Home,3656149.0,12,10.92,Pending,Not Applicable
+L00351,C0011,2024-09-21,Personal,496480.0,36,13.91,Rejected,Not Applicable
+L00352,C0047,2024-03-02,Home,1508250.0,240,16.8,Rejected,Not Applicable
+L00353,C0185,2024-05-26,Personal,150000.0,240,14.64,Rejected,Not Applicable
+L00354,C0290,2023-11-27,Personal,250493.0,36,10.02,Approved,Defaulted
+L00355,C0258,2024-11-03,Auto,479692.0,36,8.54,Rejected,Not Applicable
+L00356,C0204,2024-09-12,Home,4079468.0,48,19.33,Rejected,Not Applicable
+L00357,C0030,2024-05-04,Home,1894923.0,180,14.19,Pending,Not Applicable
+L00358,C0272,2023-11-09,Home,1205001.0,120,7.93,Rejected,Not Applicable
+L00359,C0014,2024-03-12,Education,428839.0,24,10.87,Approved,Current
+L00360,C0221,2024-06-29,Home,5618269.0,24,19.06,Approved,Defaulted
+L00361,C0144,2024-05-31,Auto,1692577.0,48,18.28,Pending,Not Applicable
+L00362,C0309,2023-12-05,Business,1566602.0,180,20.14,Pending,Not Applicable
+L00363,C0108,2024-09-29,Home,2702517.0,180,16.03,Rejected,Not Applicable
+L00364,C0224,2023-09-06,Business,2476631.0,24,13.34,Pending,Not Applicable
+L00365,C0154,2024-07-02,Education,331682.0,60,13.4,Approved,Current
+L00366,C0183,2023-05-14,Personal,337336.0,24,9.91,Pending,Not Applicable
+L00367,C0329,2024-05-31,Home,4240284.0,60,16.76,Pending,Not Applicable
+L00368,C0250,2025-05-08,Auto,1321502.0,240,15.78,Rejected,Not Applicable
+L00369,C0146,2025-06-14,Business,732041.0,48,9.32,Approved,Closed
+L00370,C0157,2025-01-30,Home,4438720.0,24,20.28,Approved,Current
+L00371,C0247,2025-03-27,Personal,317636.0,60,12.53,Rejected,Not Applicable
+L00372,C0122,2023-03-14,Auto,1593915.0,48,7.75,Pending,Not Applicable
+L00373,C0059,2024-01-09,Personal,111964.0,120,11.92,Rejected,Not Applicable
+L00374,C0164,2024-12-17,Education,939728.0,36,20.05,Rejected,Not Applicable
+L00375,C0024,2025-05-26,Home,5063014.0,180,20.75,Pending,Not Applicable
+L00376,C0060,2024-09-30,Education,453415.0,36,14.36,Rejected,Not Applicable
+L00377,C0148,2025-07-23,Business,2256958.0,24,21.35,Rejected,Not Applicable
+L00378,C0279,2023-10-27,Auto,314191.0,36,20.13,Rejected,Not Applicable
+L00379,C0274,2023-06-18,Auto,1334864.0,12,19.38,Rejected,Not Applicable
+L00380,C0092,2023-04-05,Education,929064.0,36,19.9,Rejected,Not Applicable
+L00381,C0148,2024-09-30,Business,658399.0,60,12.73,Rejected,Not Applicable
+L00382,C0054,2024-12-29,Business,292423.0,24,18.35,Rejected,Not Applicable
+L00383,C0265,2023-11-09,Personal,380380.0,24,15.66,Rejected,Not Applicable
+L00384,C0087,2025-05-08,Auto,548134.0,24,17.8,Rejected,Not Applicable
+L00385,C0280,2025-03-20,Personal,263800.0,12,9.67,Rejected,Not Applicable
+L00386,C0295,2024-01-30,Business,276050.0,180,17.97,Rejected,Not Applicable
+L00387,C0242,2023-09-19,Auto,1739767.0,240,21.36,Rejected,Not Applicable
+L00388,C0116,2025-03-23,Home,3518882.0,12,11.54,Rejected,Not Applicable
+L00389,C0334,2025-01-05,Personal,467843.0,120,21.79,Pending,Not Applicable
+L00390,C0241,2023-07-07,Personal,105359.0,60,12.68,Rejected,Not Applicable
+L00391,C0227,2023-10-07,Auto,489558.0,240,10.0,Rejected,Not Applicable
+L00392,C0300,2024-06-16,Personal,316892.0,36,8.68,Pending,Not Applicable
+L00393,C0309,2024-07-13,Personal,314113.0,36,18.77,Rejected,Not Applicable
+L00394,C0028,2023-07-01,Business,2393509.0,48,15.32,Rejected,Not Applicable
+L00395,C0309,2025-11-04,Education,1395683.0,180,11.61,Approved,Defaulted
+L00396,C0268,2024-03-01,Personal,416284.0,60,16.13,Rejected,Not Applicable
+L00397,C0073,2024-02-22,Personal,95903.0,48,11.98,Rejected,Not Applicable
+L00398,C0108,2023-03-08,Business,997676.0,36,13.73,Approved,Closed
+L00399,C0264,2025-08-16,Auto,1657809.0,60,19.94,Pending,Not Applicable
+L00400,C0076,2023-09-15,Auto,1055775.0,180,17.02,Rejected,Not Applicable
+L00401,C0159,2025-12-16,Personal,437497.0,36,18.44,Approved,Defaulted
+L00402,C0242,2025-08-15,Personal,294615.0,60,15.75,Rejected,Not Applicable
+L00403,C0228,2023-07-16,Personal,53378.0,48,21.87,Rejected,Not Applicable
+L00404,C0319,2023-07-01,Education,735686.0,48,10.62,Rejected,Not Applicable
+L00405,C0040,2025-05-27,Personal,417591.0,60,10.93,Rejected,Not Applicable
+L00406,C0104,2025-06-16,Personal,337904.0,120,8.39,Pending,Not Applicable
+L00407,C0345,2024-08-17,Education,242530.0,240,15.31,Rejected,Not Applicable
+L00408,C0200,2023-02-05,Business,709252.0,48,16.2,Rejected,Not Applicable
+L00409,C0088,2025-10-30,Education,1288843.0,36,17.89,Approved,Closed
+L00410,C0102,2024-03-06,Home,5885838.0,36,12.03,Rejected,Not Applicable
+L00411,C0119,2025-10-21,Home,4640895.0,24,7.18,Pending,Not Applicable
+L00412,C0194,2025-08-11,Home,1039439.0,36,16.48,Rejected,Not Applicable
+L00413,C0100,2025-07-21,Personal,321022.0,24,21.98,Rejected,Not Applicable
+L00414,C0218,2025-01-24,Home,5060717.0,48,11.42,Pending,Not Applicable
+L00415,C0156,2025-01-07,Home,4021071.0,24,9.76,Pending,Not Applicable
+L00416,C0214,2024-08-06,Auto,1130258.0,36,11.23,Approved,Current
+L00417,C0055,2023-01-28,Business,1455338.0,120,13.38,Rejected,Not Applicable
+L00418,C0219,2024-02-29,Business,810079.0,36,10.76,Pending,Not Applicable
+L00419,C0324,2025-03-10,Personal,161960.0,60,12.2,Pending,Not Applicable
+L00420,C0048,2025-06-08,Home,4601213.0,180,16.57,Rejected,Not Applicable
+L00421,C0115,2024-09-04,Personal,62811.0,60,12.18,Pending,Not Applicable
+L00422,C0243,2025-02-15,Home,964645.0,36,12.94,Rejected,Not Applicable
+L00423,C0217,2023-01-24,Personal,216433.0,36,7.6,Approved,Current
+L00424,C0237,2024-05-27,Personal,393977.0,60,20.77,Approved,Defaulted
+L00425,C0196,2024-07-09,Education,1002701.0,60,13.1,Rejected,Not Applicable
+L00426,C0239,2025-09-04,Home,3744919.0,24,11.92,Rejected,Not Applicable
+L00427,C0214,2023-12-07,Business,1648984.0,48,8.3,Pending,Not Applicable
+L00428,C0026,2023-09-09,Personal,82052.0,60,16.51,Approved,Defaulted
+L00429,C0263,2024-01-21,Personal,185943.0,36,19.96,Approved,Current
+L00430,C0157,2023-07-06,Home,937280.0,60,7.62,Rejected,Not Applicable
+L00431,C0019,2024-09-03,Personal,386334.0,12,9.18,Pending,Not Applicable
+L00432,C0144,2024-12-04,Personal,382893.0,36,9.2,Rejected,Not Applicable
+L00433,C0153,2025-05-27,Business,848474.0,120,16.03,Approved,Defaulted
+L00434,C0031,2025-11-30,Personal,167680.0,36,20.82,Approved,Closed
+L00435,C0349,2023-03-22,Personal,179204.0,60,13.57,Pending,Not Applicable
+L00436,C0078,2023-09-28,Auto,1617348.0,48,12.16,Pending,Not Applicable
+L00437,C0116,2023-11-26,Home,3186895.0,36,18.49,Approved,Current
+L00438,C0155,2023-10-01,Auto,1407421.0,240,18.14,Approved,Closed
+L00439,C0292,2025-06-24,Home,2968550.0,36,10.7,Rejected,Not Applicable
+L00440,C0261,2023-06-02,Education,1062376.0,36,9.41,Approved,Current
+L00441,C0270,2023-02-02,Personal,278314.0,180,12.37,Rejected,Not Applicable
+L00442,C0083,2025-07-31,Home,2032333.0,60,18.63,Rejected,Not Applicable
+L00443,C0296,2025-11-18,Auto,1595894.0,60,17.43,Approved,Current
+L00444,C0291,2023-09-05,Business,2155939.0,12,16.99,Pending,Not Applicable
+L00445,C0163,2023-12-31,Home,4731360.0,24,19.44,Approved,Defaulted
+L00446,C0192,2024-07-04,Auto,1714444.0,60,11.16,Pending,Not Applicable
+L00447,C0013,2024-07-29,Personal,146922.0,36,12.1,Rejected,Not Applicable
+L00448,C0267,2025-12-21,Personal,73033.0,36,7.64,Rejected,Not Applicable
+L00449,C0337,2024-03-18,Personal,303668.0,120,20.03,Rejected,Not Applicable
+L00450,C0166,2023-01-14,Education,522936.0,36,15.74,Approved,Current
+L00451,C0190,2024-04-07,Personal,234815.0,12,11.47,Approved,Defaulted
+L00452,C0175,2024-09-01,Education,390275.0,12,8.04,Rejected,Not Applicable
+L00453,C0029,2024-07-19,Personal,217280.0,48,17.85,Rejected,Not Applicable
+L00454,C0217,2024-07-14,Business,1240425.0,60,18.23,Rejected,Not Applicable
+L00455,C0253,2025-10-07,Education,558306.0,180,16.99,Approved,Defaulted
+L00456,C0325,2025-06-03,Personal,378897.0,24,10.06,Rejected,Not Applicable
+L00457,C0326,2023-10-03,Personal,308547.0,36,20.7,Rejected,Not Applicable
+L00458,C0173,2024-01-25,Personal,252894.0,60,18.3,Rejected,Not Applicable
+L00459,C0336,2025-01-01,Business,426875.0,36,16.87,Approved,Defaulted
+L00460,C0186,2024-03-25,Personal,298243.0,48,16.76,Rejected,Not Applicable
+L00461,C0225,2024-04-14,Auto,438784.0,240,20.57,Approved,Defaulted
+L00462,C0211,2023-07-03,Home,2227852.0,60,20.92,Rejected,Not Applicable
+L00463,C0350,2023-10-06,Education,651614.0,48,15.93,Pending,Not Applicable
+L00464,C0259,2025-03-22,Home,1277091.0,240,13.25,Rejected,Not Applicable
+L00465,C0043,2025-07-12,Home,2642192.0,12,12.46,Rejected,Not Applicable
+L00466,C0026,2025-05-09,Business,874107.0,240,19.29,Rejected,Not Applicable
+L00467,C0144,2023-12-04,Personal,429389.0,60,16.67,Rejected,Not Applicable
+L00468,C0181,2023-05-30,Education,1296537.0,60,8.16,Rejected,Not Applicable
+L00469,C0235,2023-06-24,Personal,32146.0,240,9.13,Pending,Not Applicable
+L00470,C0169,2024-03-06,Home,3813293.0,60,20.5,Approved,Defaulted
+L00471,C0181,2024-07-20,Business,1957598.0,48,20.27,Rejected,Not Applicable
+L00472,C0323,2025-09-04,Auto,773681.0,36,21.28,Rejected,Not Applicable
+L00473,C0118,2025-09-11,Auto,924052.0,60,13.42,Rejected,Not Applicable
+L00474,C0173,2023-01-03,Personal,401256.0,60,18.76,Rejected,Not Applicable
+L00475,C0196,2025-02-13,Home,2578793.0,36,19.42,Rejected,Not Applicable
+L00476,C0164,2023-11-24,Home,854515.0,60,11.74,Rejected,Not Applicable
+L00477,C0339,2023-08-05,Home,2548791.0,60,9.18,Pending,Not Applicable
+L00478,C0337,2024-08-30,Home,1896401.0,36,21.96,Approved,Closed
+L00479,C0180,2023-02-07,Personal,209879.0,12,7.45,Pending,Not Applicable
+L00480,C0158,2024-01-01,Personal,138148.0,48,15.96,Approved,Closed
+L00481,C0207,2024-08-27,Personal,100440.0,12,16.75,Pending,Not Applicable
+L00482,C0064,2023-10-25,Home,5919506.0,12,17.23,Rejected,Not Applicable
+L00483,C0150,2024-10-11,Personal,90567.0,48,10.83,Rejected,Not Applicable
+L00484,C0076,2024-05-18,Business,2147686.0,24,17.82,Approved,Closed
+L00485,C0051,2025-05-25,Auto,1334002.0,36,10.25,Rejected,Not Applicable
+L00486,C0034,2023-07-18,Personal,320360.0,60,19.44,Approved,Defaulted
+L00487,C0206,2023-03-04,Auto,1653903.0,36,10.29,Pending,Not Applicable
+L00488,C0001,2024-08-02,Business,114456.0,240,17.45,Approved,Current
+L00489,C0227,2023-10-09,Personal,171765.0,240,18.75,Rejected,Not Applicable
+L00490,C0152,2025-02-12,Personal,116625.0,60,9.83,Approved,Closed
+L00491,C0129,2023-04-13,Personal,301155.0,240,10.57,Pending,Not Applicable
+L00492,C0270,2024-09-21,Personal,328705.0,180,18.69,Pending,Not Applicable
+L00493,C0189,2025-12-19,Education,1351958.0,36,8.29,Rejected,Not Applicable
+L00494,C0257,2023-04-12,Business,1201186.0,60,9.86,Rejected,Not Applicable
+L00495,C0249,2023-11-27,Personal,140872.0,24,13.83,Rejected,Not Applicable
+L00496,C0012,2025-07-13,Education,1390207.0,60,20.95,Approved,Defaulted
+L00497,C0076,2024-08-07,Personal,346304.0,48,15.43,Rejected,Not Applicable
+L00498,C0200,2023-07-11,Auto,1411795.0,12,12.82,Pending,Not Applicable
+L00499,C0342,2023-08-22,Education,695219.0,36,21.68,Rejected,Not Applicable
+L00500,C0054,2025-04-17,Home,2960612.0,240,13.96,Approved,Closed
+L00501,C0037,2025-07-31,Personal,212852.0,36,13.51,Approved,Defaulted
+L00502,C0330,2024-01-30,Auto,1386700.0,36,13.17,Rejected,Not Applicable
+L00503,C0339,2024-06-02,Business,710785.0,36,11.68,Rejected,Not Applicable
+L00504,C0059,2025-05-07,Personal,488441.0,48,11.89,Pending,Not Applicable
+L00505,C0141,2023-07-13,Personal,112685.0,180,17.32,Rejected,Not Applicable
+L00506,C0220,2023-08-14,Personal,246661.0,120,7.61,Rejected,Not Applicable
+L00507,C0069,2025-04-28,Auto,669112.0,48,17.23,Approved,Closed
+L00508,C0115,2023-07-24,Auto,1210168.0,36,10.02,Approved,Current
+L00509,C0139,2025-04-24,Education,1037003.0,12,12.76,Rejected,Not Applicable
+L00510,C0225,2024-06-28,Education,1382064.0,48,9.2,Approved,Defaulted
+L00511,C0108,2025-12-20,Business,2388730.0,120,15.29,Pending,Not Applicable
+L00512,C0145,2023-02-06,Education,410578.0,60,17.94,Approved,Closed
+L00513,C0102,2025-11-01,Personal,127129.0,48,12.32,Approved,Current
+L00514,C0266,2023-09-04,Auto,1612821.0,60,9.45,Approved,Current
+L00515,C0054,2023-02-08,Personal,259299.0,48,10.4,Approved,Current
+L00516,C0081,2025-03-03,Personal,75846.0,60,19.27,Approved,Defaulted
+L00517,C0088,2024-08-06,Business,2492416.0,60,11.01,Rejected,Not Applicable
+L00518,C0318,2025-07-05,Auto,1219940.0,60,18.62,Rejected,Not Applicable
+L00519,C0331,2023-04-29,Business,174156.0,60,11.97,Approved,Defaulted
+L00520,C0176,2023-03-30,Home,4805610.0,240,9.83,Rejected,Not Applicable
+L00521,C0055,2024-09-13,Home,3840567.0,48,17.91,Rejected,Not Applicable
+L00522,C0265,2025-08-23,Home,3880334.0,12,14.03,Rejected,Not Applicable
+L00523,C0173,2024-03-20,Personal,436521.0,36,7.47,Rejected,Not Applicable
+L00524,C0298,2025-05-23,Personal,262901.0,60,21.4,Approved,Closed
+L00525,C0126,2025-09-19,Home,3036961.0,60,9.22,Pending,Not Applicable
+L00526,C0350,2025-08-10,Personal,320153.0,60,12.3,Rejected,Not Applicable
+L00527,C0283,2024-07-10,Business,673569.0,60,12.77,Rejected,Not Applicable
+L00528,C0079,2025-02-03,Personal,101282.0,36,14.34,Approved,Current
+L00529,C0254,2024-07-29,Personal,426576.0,60,18.78,Rejected,Not Applicable
+L00530,C0101,2025-01-08,Education,362577.0,60,7.09,Rejected,Not Applicable
+L00531,C0123,2024-09-12,Personal,267042.0,48,20.99,Rejected,Not Applicable
+L00532,C0088,2024-07-28,Business,882708.0,48,16.69,Pending,Not Applicable
+L00533,C0239,2024-04-23,Education,384164.0,24,21.26,Rejected,Not Applicable
+L00534,C0093,2024-12-15,Personal,310956.0,48,19.26,Rejected,Not Applicable
+L00535,C0224,2025-04-02,Auto,1473898.0,120,20.92,Rejected,Not Applicable
+L00536,C0204,2025-10-03,Auto,879137.0,180,16.02,Approved,Closed
+L00537,C0263,2024-11-02,Education,251156.0,60,12.36,Approved,Defaulted
+L00538,C0348,2023-04-21,Education,404490.0,36,13.64,Rejected,Not Applicable
+L00539,C0004,2024-10-05,Auto,421546.0,60,16.87,Approved,Defaulted
+L00540,C0347,2023-12-12,Auto,1606636.0,60,13.4,Pending,Not Applicable
+L00541,C0039,2023-01-30,Personal,180179.0,36,17.98,Rejected,Not Applicable
+L00542,C0185,2023-03-21,Auto,766971.0,120,8.38,Approved,Current
+L00543,C0120,2024-10-09,Business,306007.0,12,19.45,Approved,Current
+L00544,C0224,2025-10-31,Auto,885952.0,12,10.06,Approved,Defaulted
+L00545,C0253,2024-07-07,Auto,1657976.0,24,21.16,Rejected,Not Applicable
+L00546,C0301,2024-05-02,Home,2753356.0,24,9.33,Rejected,Not Applicable
+L00547,C0141,2023-04-08,Education,994303.0,180,8.94,Approved,Defaulted
+L00548,C0327,2025-01-09,Business,627634.0,48,19.18,Approved,Current
+L00549,C0113,2023-03-02,Personal,97181.0,36,19.28,Rejected,Not Applicable
+L00550,C0072,2025-07-10,Personal,373865.0,48,18.08,Approved,Defaulted
+L00551,C0133,2025-06-12,Home,861547.0,36,21.41,Approved,Current
+L00552,C0185,2025-12-21,Home,2966520.0,36,11.06,Rejected,Not Applicable
+L00553,C0234,2023-11-08,Auto,672562.0,24,19.4,Pending,Not Applicable
+L00554,C0292,2023-06-27,Personal,37640.0,60,12.28,Approved,Current
+L00555,C0079,2023-11-24,Home,3421635.0,24,15.06,Approved,Defaulted
+L00556,C0107,2025-05-25,Auto,1740623.0,120,13.68,Pending,Not Applicable
+L00557,C0329,2023-08-28,Auto,264094.0,36,7.09,Approved,Closed
+L00558,C0154,2025-08-29,Auto,1496010.0,60,15.62,Approved,Closed
+L00559,C0085,2023-06-18,Education,831809.0,120,18.21,Rejected,Not Applicable
+L00560,C0345,2023-02-23,Auto,1343873.0,24,9.62,Approved,Defaulted
+L00561,C0158,2023-08-29,Education,189996.0,24,20.97,Approved,Defaulted
+L00562,C0345,2025-04-05,Auto,1584002.0,240,14.96,Approved,Current
+L00563,C0322,2024-10-21,Home,562791.0,48,9.67,Approved,Defaulted
+L00564,C0318,2024-01-24,Auto,1646232.0,60,16.69,Rejected,Not Applicable
+L00565,C0204,2024-12-19,Personal,339169.0,12,9.88,Pending,Not Applicable
+L00566,C0280,2024-12-11,Personal,188620.0,36,7.95,Approved,Defaulted
+L00567,C0337,2024-08-30,Home,539060.0,60,17.28,Approved,Closed
+L00568,C0095,2024-07-16,Business,1871780.0,180,8.66,Pending,Not Applicable
+L00569,C0014,2023-04-22,Auto,294267.0,36,8.59,Rejected,Not Applicable
+L00570,C0113,2023-10-12,Personal,316140.0,120,18.1,Pending,Not Applicable
+L00571,C0223,2024-07-31,Auto,1425690.0,60,7.83,Approved,Late
+L00572,C0192,2023-05-29,Personal,155631.0,24,19.15,Approved,Defaulted
+L00573,C0029,2024-06-05,Education,396147.0,36,18.94,Approved,Current
+L00574,C0197,2023-05-09,Education,371830.0,36,9.12,Approved,Current
+L00575,C0062,2025-05-12,Auto,520983.0,48,14.78,Pending,Not Applicable
+L00576,C0177,2023-04-24,Auto,337947.0,60,8.45,Pending,Not Applicable
+L00577,C0202,2023-04-12,Personal,147360.0,48,16.49,Pending,Not Applicable
+L00578,C0223,2024-11-29,Home,4126228.0,36,7.94,Rejected,Not Applicable
+L00579,C0145,2023-08-30,Business,977299.0,60,21.17,Approved,Defaulted
+L00580,C0143,2024-01-20,Education,1182333.0,60,10.12,Pending,Not Applicable
+L00581,C0238,2023-12-11,Home,5006092.0,60,17.24,Rejected,Not Applicable
+L00582,C0263,2023-08-26,Home,4685242.0,60,8.92,Rejected,Not Applicable
+L00583,C0283,2025-04-14,Personal,283579.0,36,10.14,Rejected,Not Applicable
+L00584,C0117,2025-01-27,Personal,178649.0,60,13.76,Approved,Late
+L00585,C0149,2023-09-19,Personal,467051.0,36,15.6,Approved,Current
+L00586,C0116,2025-01-22,Home,1628929.0,36,21.98,Approved,Current
+L00587,C0185,2025-02-20,Business,1447076.0,24,7.39,Rejected,Not Applicable
+L00588,C0045,2024-08-13,Home,2994878.0,60,7.0,Approved,Defaulted
+L00589,C0151,2024-09-25,Personal,380427.0,60,12.26,Approved,Current
+L00590,C0067,2025-10-20,Personal,287002.0,36,12.49,Approved,Current
+L00591,C0187,2024-05-11,Personal,405772.0,180,20.26,Approved,Defaulted
+L00592,C0298,2024-02-27,Education,1382677.0,180,20.69,Approved,Defaulted
+L00593,C0345,2024-08-13,Home,2648439.0,24,20.21,Pending,Not Applicable
+L00594,C0157,2025-07-04,Education,1318494.0,60,9.15,Rejected,Not Applicable
+L00595,C0020,2025-02-15,Education,296041.0,36,13.18,Pending,Not Applicable
+L00596,C0080,2023-03-24,Personal,460548.0,240,18.19,Rejected,Not Applicable
+L00597,C0037,2024-05-17,Auto,443682.0,36,11.69,Approved,Defaulted
+L00598,C0266,2025-03-21,Business,2565761.0,36,16.95,Rejected,Not Applicable
+L00599,C0345,2023-09-03,Home,2646360.0,48,10.56,Approved,Defaulted
+L00600,C0194,2025-12-18,Personal,483354.0,36,11.85,Approved,Current
